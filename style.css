@@ -1,0 +1,231 @@
+
+body
+{
+	background-image: url("myself.jpg");
+	 line-height: 1.6em;
+	 font-family: sans-serif;
+	 background-position: center;
+	 background-size: cover;
+	 background-blend-mode: lighten;
+
+}
+
+.header{
+	background-color:#999999 ;
+	
+	width: 1100px;
+	border-radius: 15px;
+	border-right: 2px black solid;
+			border-left: 2px black solid;
+			border-top: 2px black solid;
+			border-bottom: 2px black solid;
+	
+
+			
+
+
+	
+
+}
+.profile{
+	padding-left: 10px;
+
+	
+}
+
+
+.name {
+	
+			
+	        background-color:#999999;
+	        border-radius: 15px;
+	       font-family: oxygen,ubuntu;
+	        color: black;
+	        padding: 5px;
+	        width: 50%;
+	        height: 50%;
+	        
+	        
+	      
+}
+
+img{
+	border-radius: 5%;
+	
+			width: 150px;
+			margin:5px;
+			border-right: 2px black solid;
+			border-left: 2px black solid;
+			border-top: 2px black solid;
+			border-bottom: 2px black solid;
+	
+	
+	
+
+
+}
+
+
+.box-1
+{
+	background-color:#999999;
+	margin: 50px;
+			color: #fff;
+			
+			border-width: 3px;
+			padding: 20px;
+			margin: 20px;
+			
+			color: black;
+			width: 1000px;
+
+			
+			}
+
+
+.box-2
+{
+	background-color:#999999;
+	margin: 50px;
+			color: #fff;
+			border-right: 2px black solid;
+			border-left: 2px black solid;
+			border-top: 2px black solid;
+			border-bottom: 2px black solid;
+			border-width: 3px;
+			padding: 20px;
+			margin-left: 5px;
+			border-radius: 15px;
+			width: 1050px;
+
+			}
+
+.box-3
+{
+	background-color:#999999;
+	margin: 50px;
+			color: black;
+			border-right: 2px black solid;
+			border-left: 2px black solid;
+			border-top: 2px black solid;
+			border-bottom: 2px black solid;
+			border-width: 3px;
+			padding: 20px;
+			margin: 20px;
+			border-radius: 15px;
+			width: 1050px;
+
+			}
+			.box-4{
+background-color:#999999;
+	margin: 50px;
+			color: black;
+			border-right: 2px black solid;
+			border-left: 2px black solid;
+			border-top: 2px black solid;
+			border-bottom: 2px black solid;
+			border-width: 3px;
+			padding: 20px;
+			margin: 20px;
+			border-radius: 15px;
+			width: 1050px;
+
+
+			}
+
+			.box-5{
+background-color:#999999;
+	margin: 50px;
+			color: black;
+			border-right: 2px black solid;
+			border-left: 2px black solid;
+			border-top: 2px black solid;
+			border-bottom: 2px black solid;
+			border-width: 3px;
+			padding: 20px;
+			margin: 20px;
+			border-radius: 15px;
+			width: 1050px;
+			}
+
+			.box-6{
+background-color:#999999;
+	
+			color: black;
+			border-right: 2px black solid;
+			border-left: 2px black solid;
+			border-top: 2px black solid;
+			border-bottom: 2px black solid;
+			border-width: 3px;
+			padding: 20px;
+			margin: 20px;
+				border-radius: 15px;
+			width: 1050px;}
+
+				.box-7{
+background-color:#999999;
+			
+			color: black;
+			border-right: 2px black solid;
+			border-left: 2px black solid;
+			border-top: 2px black solid;
+			border-bottom: 2px black solid;
+			border-width: 3px;
+			padding: 20px;
+			margin: 20px;
+			border-radius: 15px;
+		width: 1050px;}
+
+			.box-8{
+background-color:#999999;
+		
+			color: black;
+			border-right: 2px black solid;
+			border-left: 2px black solid;
+			border-top: 2px black solid;
+			border-bottom: 2px black solid;
+			border-width: 3px;
+			padding: 20px;
+			margin: 20px;
+				border-radius: 15px;
+			width: 1050px;}
+
+			.box-9{
+background-color:#999999;
+	
+			color: black;
+			border-right: 2px black solid;
+			border-left: 2px black solid;
+			border-top: 2px black solid;
+			border-bottom: 2px black solid;
+			border-width: 3px;
+			padding: 20px;
+			margin: 20px;
+			border-radius: 15px;
+			width:1050px;
+		}
+
+
+		
+
+
+
+
+.form{
+
+			background-color: #999999;
+			border-radius: 15px;
+	 		border-right: 2px black solid;
+			border-left: 2px black solid;
+			border-top: 2px black solid;
+			border-bottom:2px black solid;
+
+			width:79%;
+			border-width: 3px;
+			padding: 20px;
+			margin: 20px;
+
+			
+}
+
+
